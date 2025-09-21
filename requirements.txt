@@ -1,0 +1,7 @@
+opencv-python==4.11.0.86
+numpy==2.1.0
+ultralytics
+requests
+omni-lpr[cuda]
+pytesseract
+Pillow
